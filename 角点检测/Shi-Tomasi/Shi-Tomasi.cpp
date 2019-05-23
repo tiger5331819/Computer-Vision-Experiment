@@ -42,7 +42,7 @@ int main()
 {
 	printf("\n\n\t\t\t	 此为实验示例程序\n");
 	printf("\n\n\t\t\t   当前使用的OpenCV版本为：" CV_VERSION);
-	printf("\n\n\t\t\t   当前实验为：Harris角点检测");
+	printf("\n\n\t\t\t   当前实验为：Shi-Tomasi角点检测");
 	printf("\n\n  ----------------------------------------------------------------------------\n");
 
 	//载入源图像并将其转换为灰度图
